@@ -9,4 +9,4 @@ figlet("Hello World!!", function (err, data) {
 
 	console.log(data);
 	}
-);
+)
