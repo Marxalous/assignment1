@@ -15,5 +15,5 @@ rl.question("Please enter the text to be translated into Ascii Art: ", function(
 		}
 		console.log(data);
 	});
-	rl.close
+	rl.close();
 });
